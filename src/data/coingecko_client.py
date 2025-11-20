@@ -1,4 +1,3 @@
-# src/data/coingecko_client.py
 import time
 import requests
 
